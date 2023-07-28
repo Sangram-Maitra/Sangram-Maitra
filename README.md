@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sangram-Maitra
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there!👋 I'm Sangram Maitra, a passionate web developer and currently a 4th-year student 
+pursuing a Bachelor's degree in Information Technology at Heritage Institute of Technology, Kolkata.
 
-<!---
-Sangram-Maitra/Sangram-Maitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm deeply passionate about web development and constantly seek opportunities to learn and grow in 
+this ever-evolving field. I find immense joy in exploring new technologies and improving my skills to 
+create engaging and innovative web experiences.
+
+
+Let's embark on this exciting journey of web development together! 😊👨‍💻🚀
+Let's Connect<LinkedIn Profile>: https://www.linkedin.com/in/sangram-maitra-6a617b22a/
