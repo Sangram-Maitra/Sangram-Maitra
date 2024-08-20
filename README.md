@@ -7,4 +7,4 @@ create engaging and innovative web experiences.
 
 
 Let's embark on this exciting journey of web development together! 😊👨‍💻🚀
-Let's Connect<LinkedIn Profile>: https://www.linkedin.com/in/sangram-maitra-6a617b22a/
+Let's Connect https://sangram-maitra-portfolio.netlify.app/
